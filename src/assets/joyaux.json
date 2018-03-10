@@ -1,0 +1,272 @@
+{
+  "joyaux": [
+    { 
+      "nom":"Anti-explosion",
+      "rarete":5
+    },
+    { 
+      "nom":"Anti-hémorragie",
+      "rarete":5
+    },
+    { 
+      "nom":"Antigel",
+      "rarete":5
+    },
+    { 
+      "nom":"Antiparalysie",
+      "rarete":5
+    },
+    { 
+      "nom":"Artillerie lourde",
+      "rarete":5
+    },
+    { 
+      "nom":"Aura draconien",
+      "rarete":5
+    },
+    { 
+      "nom":"Bénédiction",
+      "rarete":5
+    },
+    { 
+      "nom":"Botaniste",
+      "rarete":5
+    },
+    { 
+      "nom":"Entomologiste",
+      "rarete":5
+    },
+    { 
+      "nom":"Esprit indomptable",
+      "rarete":5
+    },
+    { 
+      "nom":"Esprit Palico",
+      "rarete":5
+    },
+    { 
+      "nom":"Etanchéité",
+      "rarete":5
+    },
+    { 
+      "nom":"Expert en survie",
+      "rarete":5
+    },
+    { 
+      "nom":"Expert sporenlit",
+      "rarete":5
+    },
+    { 
+      "nom":"Furtivité",
+      "rarete":5
+    },
+    { 
+      "nom":"Géologiste",
+      "rarete":5
+    },
+    { 
+      "nom":"Homme-poisson",
+      "rarete":5
+    },
+    { 
+      "nom":"Ignifuge",
+      "rarete":5
+    },
+    { 
+      "nom":"Insomnie",
+      "rarete":5
+    },
+    { 
+      "nom":"Instinct animal",
+      "rarete":5
+    },
+    { 
+      "nom":"Intimidation",
+      "rarete":5
+    },
+    { 
+      "nom":"Jamais vaincu",
+      "rarete":5
+    },
+    { 
+      "nom":"Mort venue d'en haut",
+      "rarete":5
+    },
+    { 
+      "nom":"Paratonnerre",
+      "rarete":5
+    },
+    { 
+      "nom":"Peau de fer",
+      "rarete":5
+    },
+    { 
+      "nom":"Pique-assiette",
+      "rarete":5
+    },
+    { 
+      "nom":"Purification",
+      "rarete":5
+    },
+    { 
+      "nom":"Spartiate",
+      "rarete":5
+    },
+    { 
+      "nom":"Toxicologie",
+      "rarete":5
+    },
+    { 
+      "nom":"Afflux de vie",
+      "rarete":6
+    },
+    { 
+      "nom":"Affûtage rapide",
+      "rarete":6
+    },
+    { 
+      "nom":"Apothicaire",
+      "rarete":6
+    },
+    { 
+      "nom":"Athlète",
+      "rarete":6
+    },
+    { 
+      "nom":"Bastion",
+      "rarete":6
+    },
+    { 
+      "nom":"Blizzard",
+      "rarete":6
+    },
+    { 
+      "nom":"Bombardier",
+      "rarete":6
+    },
+    { 
+      "nom":"Bouchon d'oreilles",
+      "rarete":6
+    },
+    { 
+      "nom":"Carnassier",
+      "rarete":6
+    },
+    { 
+      "nom":"Cercle de vie",
+      "rarete":6
+    },
+    { 
+      "nom":"Chimiste",
+      "rarete":6
+    },
+    { 
+      "nom":"Cogneur",
+      "rarete":6
+    },
+    { 
+      "nom":"Crâne d'acier",
+      "rarete":6
+    },
+    { 
+      "nom":"Destructeur",
+      "rarete":6
+    },
+    { 
+      "nom":"Destruction massive",
+      "rarete":6
+    },
+    { 
+      "nom":"Feu du ciel",
+      "rarete":6
+    },
+    { 
+      "nom":"Fronde +",
+      "rarete":6
+    },
+    { 
+      "nom":"Halo de guérison",
+      "rarete":6
+    },
+    { 
+      "nom":"Invulnérabilité",
+      "rarete":6
+    },
+    { 
+      "nom":"La nuit porte conseil",
+      "rarete":6
+    },
+    { 
+      "nom":"Maelstrom",
+      "rarete":6
+    },
+    { 
+      "nom":"Maestro",
+      "rarete":6
+    },
+    { 
+      "nom":"Maître d'armes",
+      "rarete":6
+    },
+    { 
+      "nom":"Mise à mort",
+      "rarete":6
+    },
+    { 
+      "nom":"Mort-aux-rats",
+      "rarete":6
+    },
+    { 
+      "nom":"Nerfs d'acier",
+      "rarete":6
+    },
+    { 
+      "nom":"Neutralisation",
+      "rarete":6
+    },
+    { 
+      "nom":"Pare-vent",
+      "rarete":6
+    },
+    { 
+      "nom":"Pourfendeur de dragon",
+      "rarete":6
+    },
+    { 
+      "nom":"Pyromane",
+      "rarete":6
+    },
+    { 
+      "nom":"Rengainage éclair",
+      "rarete":6
+    },
+    { 
+      "nom":"Roi de la glisse",
+      "rarete":6
+    },
+    { 
+      "nom":"Secrets de l'acier",
+      "rarete":6
+    },
+    { 
+      "nom":"Sismologie",
+      "rarete":6
+    },
+    { 
+      "nom":"Totem élémentaire",
+      "rarete":6
+    },
+    { 
+      "nom":"Trompe-la-mort",
+      "rarete":6
+    },
+    { 
+      "nom":"Un pour tous",
+      "rarete":6
+    },
+    { 
+      "nom":"Vol d'endurance",
+      "rarete":6
+    }
+  ]
+}

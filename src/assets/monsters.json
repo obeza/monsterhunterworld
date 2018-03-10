@@ -1,0 +1,418 @@
+{
+  "monsters":[
+  {
+    "nom": "Anjanath",
+    "espece": "Wyverne de terre",
+    "element": "Feu",
+    "status": "Fléau-Feu",
+    "image": "anjanath.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 0,
+        "eau": 3,
+        "foudre": 2,
+        "glace": 2,
+        "dragon":1
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 1,
+        "etourdissement": 2
+      }
+    }
+  },
+  {
+    "nom": "Bazelgeuse",
+    "espece": "Wyverne volante",
+    "element": "Feu",
+    "status": "Fléau-Feu, Fléau-Poisse",
+    "image": "bazelgeuse.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 0,
+        "eau": 1,
+        "foudre": 3,
+        "glace": 2,
+        "dragon": 2
+    },
+      "statut": {
+        "poison": 2,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 1,
+        "etourdissement": 1
+      }
+    }
+  },
+  {
+    "nom": "Dodogama",
+    "espece": "Wyverne à crocs",
+    "element": "Feu",
+    "status": "Fléau-Poisse",
+    "image": "dodogama.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 0,
+        "eau": 2,
+        "foudre": 3,
+        "glace": 2,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 3,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 1,
+        "etourdissement": 2
+        }
+    }
+  },
+  {
+    "nom": "Grand Girros",
+    "espece": "Wyverne à crocs",
+    "element": null,
+    "status": "Paralysie",
+    "image": "grandgirros.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 2,
+        "eau": 3,
+        "foudre": 0,
+        "glace": 2,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 3,
+        "paralysie": 1,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }
+  },
+  {
+    "nom": "Grand Jagras",
+    "espece": "Wyverne à crocs",
+    "element": null,
+    "status": null,
+    "image": "grandjagras.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 3,
+        "eau": 0,
+        "foudre": 2,
+        "glace": 2,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 3,
+        "sommeil": 3,
+        "paralysie": 3,
+        "explosion": 3,
+        "etourdissement": 3
+        }
+    }
+  },
+  {
+    "nom": "Jyuratodus",
+    "espece": "Wyverne aquatique",
+    "element": "Eau",
+    "status": "Fléau-Eau",
+    "image": "jyuratodus.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 0,
+        "eau": 0,
+        "foudre": 0,
+        "glace": 1,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 1,
+        "paralysie": 2,
+        "explosion": 2,
+        "etourdissement": 3
+        }
+    }
+  },
+  {
+    "nom": "Kulu-Ya-Ku",
+    "espece": "Wyverne rapace",
+    "element": null,
+    "status": null,
+    "image": "kuluyaku.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 2,
+        "eau": 3,
+        "foudre": 2,
+        "glace": 2,
+        "dragon": 2
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Legiana",
+    "espece": "Wyverne volante",
+    "element": "Glace",
+    "status": "Fléau-Glace",
+    "image": "legiana.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 2,
+        "eau": 1,
+        "foudre": 3,
+        "glace": 0,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 3,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Odogaron",
+    "espece": "Wyverne à crocs",
+    "element": null,
+    "status": "Lacération",
+    "image": "odogaron.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 1,
+        "eau": 1,
+        "foudre": 2,
+        "glace": 3,
+        "dragon": 0
+      },
+      "statut": {
+        "poison": 1,
+        "sommeil": 2,
+        "paralysie": 3,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Paolumu",
+    "espece": "Wyverne volante",
+    "element": null,
+    "status": null,
+    "image": "paolumu.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 3,
+        "eau": 1,
+        "foudre": 2,
+        "glace": 1,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 2,
+        "paralysie": 3,
+        "explosion": 3,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Pukei-Pukei",
+    "espece": "Wyverne volante",
+    "element": null,
+    "status": "Poison",
+    "image": "pukeipukei.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 2,
+        "eau": 0,
+        "foudre": 3,
+        "glace": 2,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 1,
+        "sommeil": 3,
+        "paralysie": 3,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Radobaan",
+    "espece": "Wyverne de terre",
+    "element": null,
+    "status": "Sommeil",
+    "image": "radobaan.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 1,
+        "eau": 1,
+        "foudre": 1,
+        "glace": 2,
+        "dragon": 3
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 1,
+        "paralysie": 2,
+        "explosion": 3,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Tobi-Kadachi",
+    "espece": "wyverne à crocs",
+    "element": "Foudre",
+    "status": "Fléau-Foudre",
+    "image": "tobikadachi.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 2,
+        "eau": 3,
+        "foudre": 0,
+        "glace": 2,
+        "dragon": 1
+      },
+      "statut": {
+        "poison": 3,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Tzitzi-Ya-Ku",
+    "espece": "Wyverne rapace",
+    "element": null,
+    "status": "Etourdissement",
+    "image": "tzitziyaku.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 2,
+        "eau": 2,
+        "foudre": 3,
+        "glace": 3,
+        "dragon": 2
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Nergigante",
+    "espece": "Dragon ancien",
+    "element": null,
+    "status": null,
+    "image": "nergigante.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 1,
+        "eau": 1,
+        "foudre": 3,
+        "glace": 1,
+        "dragon": 2
+      },
+      "statut": {
+        "poison": 2,
+        "sommeil": 2,
+        "paralysie": 2,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Vaal Hazak",
+    "espece": "Dragon ancien",
+    "element": null,
+    "status": null,
+    "image": "vaalhazak.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 3,
+        "eau": 0,
+        "foudre": 1,
+        "glace": 2,
+        "dragon": 3
+      },
+      "statut": {
+        "poison": 1,
+        "sommeil": 1,
+        "paralysie": 1,
+        "explosion": 2,
+        "etourdissement": 2
+        }
+    }    
+  },
+  {
+    "nom": "Xeno'jiiva",
+    "espece": "Dragon ancien",
+    "element": "Dragon, Feu",
+    "status": "Fléau-Dragon, Fléau-Feu",
+    "image": "xenojiiva.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 2,
+        "eau": 2,
+        "foudre": 2,
+        "glace": 2,
+        "dragon": 2
+      },
+      "statut": {
+        "poison": 3,
+        "sommeil": 0,
+        "paralysie": 1,
+        "explosion": 2,
+        "etourdissement": 1
+        }
+    }    
+  },
+  {
+    "nom": "Zorah Magdaros",
+    "espece": "Dragon ancien",
+    "element": null,
+    "status": "Fléau-Feu",
+    "image": "zorahmagdaros.jpg",
+    "faiblesse": {
+      "element": {
+        "feu": 0,
+        "eau": 3,
+        "foudre": 1,
+        "glace": 2,
+        "dragon": 3
+      },
+      "statut": {
+        "poison": 0,
+        "sommeil": 0,
+        "paralysie": 0,
+        "explosion": 0,
+        "etourdissement": 0
+        }
+    }    
+  }
+]
+}

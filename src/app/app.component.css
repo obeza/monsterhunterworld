@@ -1,0 +1,24 @@
+.rechercher{
+  width:650px;
+}
+
+.show-conteneur {
+  position: fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  z-index: 1000;
+}
+.bt-fermer{
+  background:#B5B5B5;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50%;
+  width:40px;
+  height: 40px;
+  cursor: pointer;
+}
+.show-conteneur .card {
+  height:100vh;
+}
